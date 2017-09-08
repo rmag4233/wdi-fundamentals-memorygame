@@ -29,6 +29,10 @@ a:hover {
 	border-color: white;
 }
 
+button:hover {
+	border-color: white;
+}
+
 h2 {
 	font-family: Raleway, sans-serif;
 	color: #0D2C40;
@@ -42,6 +46,20 @@ p {
 	font-family: "Droid Serif", sans-serif;
 	line-height: 26px;
 	font-size: 18px;
+}
+
+button {
+	background-color: #F15B31;
+	padding: 10px;
+	font-family: Raleway, sans-serif;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-weight: 700;
+	font-size: 18px;
+	margin: 0 20px;
+	text-decoration: none;
+	width: 200px;
+	border-bottom: 2px solid transparent;
 }
 
 header {
